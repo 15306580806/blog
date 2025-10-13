@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>中文 on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/%E4%B8%AD%E6%96%87/</link>
+    <description>Recent content in 中文 on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Oct 2025 21:49:44 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E4%B8%AD%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一篇文章</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 13 Oct 2025 21:49:44 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;oranges-are-not-the-only-fruit&#34;&gt;Oranges Are Not the Only Fruit&lt;/h1&gt;&#xA;&lt;p&gt;这是正文内容，中文应该可以正常显示。&#xA;你好？这是中文测试。&#xA;hello, this is English.&#xA;&lt;img src=&#34;image-1.png&#34; alt=&#34;这是一张示例图片&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
