@@ -2,3 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = '日记'
 theme = 'mainroad'
+# 启用分类
+[taxonomies]
+  tag = "tags"
+  category = "categories"
