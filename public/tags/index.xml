@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 日记</title>
+    <title>Tags on 𝕭𝖎𝖗𝖉𝖘 𝖔𝖋 𝖙𝖍𝖊 𝖜𝖔𝖔𝖉𝖘</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on 日记</description>
+    <description>Recent content in Tags on 𝕭𝖎𝖗𝖉𝖘 𝖔𝖋 𝖙𝖍𝖊 𝖜𝖔𝖔𝖉𝖘</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Oct 2025 14:20:07 +0800</lastBuildDate>
@@ -20,13 +20,6 @@
       <link>http://localhost:1313/tags/%E9%A3%9F%E7%89%A9/</link>
       <pubDate>Wed, 15 Oct 2025 14:20:07 +0800</pubDate>
       <guid>http://localhost:1313/tags/%E9%A3%9F%E7%89%A9/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>测试</title>
-      <link>http://localhost:1313/tags/%E6%B5%8B%E8%AF%95/</link>
-      <pubDate>Mon, 13 Oct 2025 22:46:07 +0800</pubDate>
-      <guid>http://localhost:1313/tags/%E6%B5%8B%E8%AF%95/</guid>
       <description></description>
     </item>
   </channel>

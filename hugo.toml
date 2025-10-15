@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = '日记'
+title = '𝕭𝖎𝖗𝖉𝖘 𝖔𝖋 𝖙𝖍𝖊 𝖜𝖔𝖔𝖉𝖘'
 theme = 'mainroad'
 # 启用分类
 [taxonomies]

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>日记</title>
+    <title>𝕭𝖎𝖗𝖉𝖘 𝖔𝖋 𝖙𝖍𝖊 𝖜𝖔𝖔𝖉𝖘</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on 日记</description>
+    <description>Recent content on 𝕭𝖎𝖗𝖉𝖘 𝖔𝖋 𝖙𝖍𝖊 𝖜𝖔𝖔𝖉𝖘</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Oct 2025 14:20:07 +0800</lastBuildDate>
@@ -13,14 +13,14 @@
       <link>http://localhost:1313/posts/20251015/</link>
       <pubDate>Wed, 15 Oct 2025 14:20:07 +0800</pubDate>
       <guid>http://localhost:1313/posts/20251015/</guid>
-      <description>&lt;p&gt;今天吃了网红餐厅“滨寿司”，这是我第一次吃自助点餐形式的旋转寿司，感觉很新奇。有两种位置可供选择，多人的卡座和单人的吧台，我选择了吧台入座。吧台上有一个小平板和写着座位号的牌子，在平板上点餐，即点即送，吃完再买单。餐具在下面的抽屉里，右边有杯子和抹茶粉，可以自助泡抹茶，每个位置都有热水水龙头。手边还有四种不同的酱油可供挑选，当然青芥末和姜片也必不可少。吧台上的单人用餐位麻雀虽小五脏俱全，在目之所及的地方都写满了推荐词和使用说明，非常日式的做法。&lt;/p&gt;</description>
+      <description>&lt;p&gt;2025-10-15&lt;/p&gt;</description>
     </item>
     <item>
       <title>成立</title>
       <link>http://localhost:1313/posts/my-second-post/</link>
       <pubDate>Mon, 13 Oct 2025 22:46:07 +0800</pubDate>
       <guid>http://localhost:1313/posts/my-second-post/</guid>
-      <description>&lt;p&gt;我的个人博客网站今天成立了。&lt;/p&gt;</description>
+      <description>&lt;p&gt;2025-10-13&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
